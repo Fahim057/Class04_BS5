@@ -1,0 +1,10 @@
+.row{
+    margin-bottom:20px ;
+}
+
+.row div div{
+background-color: rgb(53, 169, 186);
+border: 1px solid rgb(128, 58, 0);
+padding: 5px;
+text-align: center;
+}
